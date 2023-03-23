@@ -1,0 +1,9 @@
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\win-x64\app.publish\AutoGHL.exe
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\win-x64\app.publish\AutoGHL.deps.json
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\win-x64\app.publish\AutoGHL.runtimeconfig.json
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\win-x64\app.publish\AutoGHL.pdb
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\win-x64\app.publish\sni.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\win-x64\app.publish\System.Security.Cryptography.Pkcs.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\win-x64\app.publish\EASendMail.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\win-x64\app.publish\System.Data.SqlClient.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\win-x64\app.publish\AutoGHL.dll

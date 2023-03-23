@@ -1,0 +1,14 @@
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\AutoGHL.exe
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\AutoGHL.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\AutoGHL.deps.json
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\AutoGHL.runtimeconfig.json
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\AutoGHL.pdb
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\EASendMail.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\System.Data.SqlClient.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\System.Security.Cryptography.Pkcs.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ktorres\source\repos\AutoGHL\AutoGHL\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
